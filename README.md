@@ -9,7 +9,8 @@
 
 ```
 Processing megaatmega2560 (platform: atmelavr; board: megaatmega2560; framework: arduino)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Verbose mode can be enabled via `-v, --verbose` option
+----------------------------------------------------------------------------------------------
+Verbose mode can be enabled via `-v, --verbose` option
 CONFIGURATION: https://docs.platformio.org/page/boards/atmelavr/megaatmega2560.html
 PLATFORM: Atmel AVR (3.4.0) > Arduino Mega or Mega 2560 ATmega2560 (Mega 2560)     
 HARDWARE: ATMEGA2560 16MHz, 8KB RAM, 248KB Flash
