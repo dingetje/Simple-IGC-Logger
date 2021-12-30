@@ -1,7 +1,7 @@
 # Simple-IGC-Logger
  Simple android based IGC flight logger, see wiki for details.
  
- ##Build instructions
+ ## Build instructions
  1. clone the repository
  2. open the folder in Visual Studio Code with Platform IO extension installed
  3. build
