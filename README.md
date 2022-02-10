@@ -1,5 +1,5 @@
 # Simple-IGC-Logger
- Simple android based IGC flight logger, see wiki for details.
+ Simple arduino based IGC flight logger, see wiki for details.
  
  ## Build instructions
  1. clone the repository
